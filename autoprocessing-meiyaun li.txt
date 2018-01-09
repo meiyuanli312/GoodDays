@@ -1,4 +1,9 @@
-When I work as the TA of a Java class at SCU, my difficulty was that after downloading students' assignments, the java file name changed  to a longer name that doesn't match with the class Name. For example, we ask student to name their class and java file meiyuanliHW1, it will become meiyuanli_18571_1487247_MeiyuanliHw1.java automatically upon submitting. It's very time consuming to change everybody's file name and compile them one by one. So, I just wrote a simple shell script to speed up the process.It's not long but it's super powerful. I think this represents why we code in the first place, because we want to make our life easier.
+When I work as the TA of a Java class at SCU, my difficulty was that after downloading students' assignments, 
+the java file name changed  to a longer name that doesn't match with the class Name. 
+For example, we ask student to name their class and java file meiyuanliHW1, it will become meiyuanli_18571_1487247_MeiyuanliHw1.java automatically upon submitting. 
+It's very time consuming to change everybody's file name and compile them one by one. 
+So, I just wrote a shell script to speed up the process.It's not long but it's super powerful. 
+I think this represents why we code in the first place, because we want to make our life easier.
 
 
 
